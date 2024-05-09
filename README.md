@@ -10,7 +10,7 @@ A analise será feita sobre os dados de clientes em diferentes planos, contando 
 
 O dataset traz variaveis com informações de cancelamento dos clientes na seguinte proporção.
 
-<img src="proportion.png" alt="Dataset" />
+<img src="proportion.png" alt="Proporção" />
 
 ## Analise
 Algumas analises se destacaram de cara, mostrando forte ligação com a variavel *cancelou*. Veremos isso com algumas ilustrações a seguir.
@@ -18,8 +18,9 @@ Algumas analises se destacaram de cara, mostrando forte ligação com a variavel
 <img src="liga.png" alt="Ligações ao Call Center" />
 O numero de ligações pro Call Center
 
-<img src="Atraso.png" alt="Atrado no pagamento" />
+<img src="Atraso.png" alt="Atraso no pagamento" />
 O pagamento atrasado (numero de dias)
 
 Dessa analise, é possivel ver a criticidade do atraso e do numero de ligações para o Call Center, se mostrando como indicadores de cancelamento. Sendo o grande objetivo fidelizar o cliente e minimizar o cancelamento, essas variaveis merecem atenção juntamento com o tipo de plano.
-![alt text](Analise.png)
+
+![Analise de risco](Analise.png)
